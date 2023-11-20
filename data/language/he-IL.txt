@@ -3,29 +3,29 @@
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
-STR_0002    :Spiral Roller Coaster
-STR_0003    :Stand-up Roller Coaster
-STR_0004    :Suspended Swinging Coaster
-STR_0005    :Inverted Roller Coaster
-STR_0006    :Junior Roller Coaster
-STR_0007    :Miniature Railway
-STR_0008    :Monorail
-STR_0009    :Mini Suspended Coaster
-STR_0010    :Boat Hire
-STR_0011    :Wooden Wild Mouse
-STR_0012    :Steeplechase
-STR_0013    :Car Ride
-STR_0014    :Launched Freefall
-STR_0015    :Bobsleigh Coaster
-STR_0016    :Observation Tower
-STR_0017    :Looping Roller Coaster
-STR_0018    :Dinghy Slide
-STR_0019    :Mine Train Coaster
-STR_0020    :Chairlift
-STR_0021    :Corkscrew Roller Coaster
-STR_0022    :Maze
-STR_0023    :Spiral Slide
-STR_0024    :Go-Karts
+STR_0002    :רכבת הרים ספירלית
+STR_0003    :רכבת הרים בעמידה
+STR_0004    :רכבת הרים תלויה
+STR_0005    :רכבת הרים הפוכה
+STR_0006    :רכבת הרים לילדים
+STR_0007    :רכבת מיניאטורית
+STR_0008    :רכבת חד-פסית
+STR_0009    :מיני רכבת תלויה
+STR_0010    :לשכור סירה
+STR_0011    :עכבר פרא מעץ
+STR_0012    :מירוץ מכשולים
+STR_0013    :נסיעה ברכב
+STR_0014    :מגדל נפילה חופשית
+STR_0015    :רכבת מזחלות בוב
+STR_0016    :מגדל תצפית
+STR_0017    :רכבת לולאה
+STR_0018    :מגלשת דינגי
+STR_0019    :רכבת מכרה
+STR_0020    :רכבל כסאות
+STR_0021    :רכבת הרים חולץ פקקים
+STR_0022    :מבוך
+STR_0023    :מלגשה ספירלית
+STR_0024    :קרטינג
 STR_0025    :Log Flume
 STR_0026    :River Rapids
 STR_0027    :Dodgems
